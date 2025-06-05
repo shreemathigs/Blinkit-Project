@@ -3,6 +3,8 @@
 
 Welcome to the **Blinkit Sales Analysis** project! This end-to-end dashboard and analytics report was developed using **Google Colab (Python)** and **Tableau**, focused on uncovering key performance trends and consumer behavior insights from Blinkit's product sales data.
 
+![image alt](https://github.com/shreemathigs/Blinkit-Data-Analysis/blob/1d108901666e7a8ce129c330316e43f1e6a9ef67/blinkit%20(1).png)
+
 
 ---
 
